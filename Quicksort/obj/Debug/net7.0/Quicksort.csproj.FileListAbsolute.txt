@@ -1,0 +1,15 @@
+/Users/Andrei/Desktop/HomeWork/Sorting/Quicksort/bin/Debug/net7.0/Quicksort
+/Users/Andrei/Desktop/HomeWork/Sorting/Quicksort/bin/Debug/net7.0/Quicksort.deps.json
+/Users/Andrei/Desktop/HomeWork/Sorting/Quicksort/bin/Debug/net7.0/Quicksort.runtimeconfig.json
+/Users/Andrei/Desktop/HomeWork/Sorting/Quicksort/bin/Debug/net7.0/Quicksort.dll
+/Users/Andrei/Desktop/HomeWork/Sorting/Quicksort/bin/Debug/net7.0/Quicksort.pdb
+/Users/Andrei/Desktop/HomeWork/Sorting/Quicksort/obj/Debug/net7.0/Quicksort.csproj.AssemblyReference.cache
+/Users/Andrei/Desktop/HomeWork/Sorting/Quicksort/obj/Debug/net7.0/Quicksort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Andrei/Desktop/HomeWork/Sorting/Quicksort/obj/Debug/net7.0/Quicksort.AssemblyInfoInputs.cache
+/Users/Andrei/Desktop/HomeWork/Sorting/Quicksort/obj/Debug/net7.0/Quicksort.AssemblyInfo.cs
+/Users/Andrei/Desktop/HomeWork/Sorting/Quicksort/obj/Debug/net7.0/Quicksort.csproj.CoreCompileInputs.cache
+/Users/Andrei/Desktop/HomeWork/Sorting/Quicksort/obj/Debug/net7.0/Quicksort.dll
+/Users/Andrei/Desktop/HomeWork/Sorting/Quicksort/obj/Debug/net7.0/refint/Quicksort.dll
+/Users/Andrei/Desktop/HomeWork/Sorting/Quicksort/obj/Debug/net7.0/Quicksort.pdb
+/Users/Andrei/Desktop/HomeWork/Sorting/Quicksort/obj/Debug/net7.0/Quicksort.genruntimeconfig.cache
+/Users/Andrei/Desktop/HomeWork/Sorting/Quicksort/obj/Debug/net7.0/ref/Quicksort.dll
